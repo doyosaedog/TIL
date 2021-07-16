@@ -62,12 +62,12 @@ def telegram():
 
     if text == '누구야':
         text = f'{chat_id}님의 챗봇입니다.'
-        
+
     elif text == '미세먼지':
         key = '%2BF%2BZ82MPkIbpFnSopUetyE3CrZHeF3vFIxBWr10XLe4aTo4inTS45tQXsxstitpAQJQS4V6yTcz4pdWS3STnfQ%3D%3D'
         sidoName = '부산'
         dust_url = f'http://apis.data.go.kr/B552584/ArpltnInforInqireSvc/getCtprvnRltmMesureDnsty?serviceKey={key}&returnType=json&numOfRows=100&pageNo=1&sidoName={sidoName}&ver=1.0'
-        response = request.get(dust_url).json()
+        response = requests.get(dust_url).json()
         sido_name = response['response']['body']['items'][1]['sidoName']
         station_name = response['response']['body']['items'][1]['stationName']
         dust = response['response']['body']['items'][1]['pm10Value']
