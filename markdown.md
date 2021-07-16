@@ -113,3 +113,24 @@ ctrl + t로 표도 만들어진다.
 | 일반 인증키 (Encoding)                                       | %2BF%2BZ82MPkIbpFnSopUetyE3CrZHeF3vFIxBWr10XLe4aTo4inTS45tQXsxstitpAQJQS4V6yTcz4pdWS3STnfQ%3D%3D |
 | 일반 인증키 (Decoding)                                       | +F+Z82MPkIbpFnSopUetyE3CrZHeF3vFIxBWr10XLe4aTo4inTS45tQXsxstitpAQJQS4V6yTcz4pdWS3STnfQ== |
 
+교수님 텔레그램 챗 아이디
+
+ 1582657480
+
+교수님 텔레그램 챗봇 key
+
+1855765985:AAF11tyL7neSuqWqGEnUIlNHSCna3GFGRTs
+
+내 텔레그램 챗 아이디
+
+1812507892
+
+내 텔레그램 챗봇 key
+
+1867821074:AAE9tMsP5yK5pQochAFWskaS0Q4WDLVBKfc
+
+
+
+파이썬 애니웨어 메인주소
+
+http://loveyh95.pythonanywhere.com/
